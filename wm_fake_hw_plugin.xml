@@ -1,0 +1,8 @@
+<library path="lib/libwm_fake_hardware_interface">
+    <class name="wm_fake_hardware_interface/WMFakeHardwareInterface" type="wm_fake_hardware_interface::WMFakeHardwareInterface" base_class_type="hardware_interface::RobotHW">
+        <description>
+            Walking Machine fake hw.
+        </description>
+    </class>
+
+</library>
